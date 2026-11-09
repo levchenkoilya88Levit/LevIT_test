@@ -1,10 +1,10 @@
 # Налаштування сайту LevIT (Jekyll, збирається GitHub Pages автоматично)
 title: LevIT
 description: Супровід, доробка, інтеграції та аудит BAS для українського бізнесу.
-url: https://levit.com.ua
-baseurl: ""
+url: https://levchenkoilya88levit.github.io
+baseurl: "/LevIT_test"
 lang: uk
-env: prod          # prod — рабочий сайт; в тестовом репозитории LevIT_test здесь dev
+env: dev           # ТЕСТОВЫЙ САЙТ (LevIT_test). Этот коммит в прод не переносится
 
 markdown: kramdown
 kramdown:
